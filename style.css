@@ -1,0 +1,25 @@
+button{
+  padding: 50px;
+}
+
+#go{
+  position:relative;
+left:100px;
+top:50px;
+}
+
+#go1{
+  position:relative;
+left:200px;
+top:50px;
+}
+
+#go3{
+  position:relative;
+left:200px;
+top:30px;
+}
+
+h1{
+  padding: 50px;
+}
